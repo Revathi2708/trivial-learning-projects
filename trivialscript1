@@ -1,0 +1,10 @@
+echo "Hello kid, what is your name?"
+read myvar
+echo Welcome $myvar
+echo "What you like to play?"
+read myvar
+echo "try again later bye bye"
+
+
+
+
